@@ -44,13 +44,4 @@ This project is open source under the **MIT License** — see the `LICENSE` file
 
 Contributions, clarifications, or improvements to these materials are welcome! Please fork the repo, make your changes, and open a pull request.
 
----
 
-### Optional: Add Context (if desired)
-
-You might also consider adding a brief *About the Webinar* section to give context—such as the organizing body (AAPG), the speaker, and the main topics addressed. Feel free to add your own description or summary if you’d like!
-
----
-
-Would you like help customizing further—maybe refining usage instructions, adding installation setup, or expanding content summaries? Just let me know!
-::contentReference[oaicite:2]{index=2}
